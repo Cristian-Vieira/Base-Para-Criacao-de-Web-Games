@@ -27,7 +27,7 @@ window.onload = () => {
 
             /* Metodos de desenho */
 
-        window.requestAnimationFrame(função_de_desenho); //chama a função para reiniciar o loop
+        window.requestAnimationFrame(função_de_desenho); // Chama a função de desenho reiniciando o loop
     }
 }
 
