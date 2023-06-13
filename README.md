@@ -4,7 +4,7 @@
 ## Pré-requisitos:
 Antes de executar este código, certifique-se de ter um navegador compatível com a tag **<canvas> do HTML5**.
 
-## Materiais de apoio e referencias:
+## Materiais de apoio e referências:
 - [MDN Web Docs - CANVAS](https://developer.mozilla.org/pt-BR/docs/Web/API/CanvasRenderingContext2D)
 - [w3schools - HTML CANVAS](https://www.w3schools.com/js/js_graphics_canvas.asp)
 - [Sololearn - Game Development with JS](https://www.sololearn.com/learning/1175) 
