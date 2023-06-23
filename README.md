@@ -15,6 +15,6 @@ Antes de executar este código, certifique-se de ter um navegador compatível co
 - Você deve personalizar o código para adicionar lógica de jogo e desenhar elementos conforme necessário. Você pode usar os métodos de desenho fornecidos pelo contexto 2D para criar gráficos, animações e interações.
 - Lembre-se de ajustar as dimensões do canvas (largura e altura) no elemento <canvas> e no método clearRect de acordo com suas necessidades.
 - Este é apenas um exemplo básico de estrutura para um jogo. A complexidade e recursos adicionais dependem dos requisitos específicos do seu projeto.
-- Sinta-se à vontade para usar este repositorio como quiser e contribuir com melhorias para este repositorio, abrindo issues ou pull requests.
+- Sinta-se à vontade para usar este repositorio como quiser e contribuir com melhorias, abrindo issues ou pull requests.
 
 - Este código é fornecido sob a licença MIT.
